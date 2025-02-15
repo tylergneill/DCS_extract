@@ -1,4 +1,4 @@
-# DCS_extract
+# dcs_extract
 A plain-text extract of the 
 [DCS CoNLL-U dump](https://github.com/OliverHellwig/sanskrit/tree/master/dcs/data/conllu).
 
