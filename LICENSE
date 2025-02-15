@@ -1,0 +1,1 @@
+The contents of this repo are licensed under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
